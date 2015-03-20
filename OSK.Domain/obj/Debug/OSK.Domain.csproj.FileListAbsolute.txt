@@ -1,0 +1,5 @@
+C:\Users\Abdul\documents\visual studio 2013\Projects\Bootstrap\OSK.Domain\bin\Debug\OSK.Domain.dll
+C:\Users\Abdul\documents\visual studio 2013\Projects\Bootstrap\OSK.Domain\bin\Debug\OSK.Domain.pdb
+C:\Users\Abdul\documents\visual studio 2013\Projects\Bootstrap\OSK.Domain\obj\Debug\OSK.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Abdul\documents\visual studio 2013\Projects\Bootstrap\OSK.Domain\obj\Debug\OSK.Domain.dll
+C:\Users\Abdul\documents\visual studio 2013\Projects\Bootstrap\OSK.Domain\obj\Debug\OSK.Domain.pdb

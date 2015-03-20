@@ -1,0 +1,4 @@
+C:\Users\Abdul\documents\visual studio 2013\Projects\Bootstrap\OSK.Common\bin\Debug\OSK.Common.dll
+C:\Users\Abdul\documents\visual studio 2013\Projects\Bootstrap\OSK.Common\bin\Debug\OSK.Common.pdb
+C:\Users\Abdul\documents\visual studio 2013\Projects\Bootstrap\OSK.Common\obj\Debug\OSK.Common.dll
+C:\Users\Abdul\documents\visual studio 2013\Projects\Bootstrap\OSK.Common\obj\Debug\OSK.Common.pdb

@@ -1,0 +1,5 @@
+C:\Users\Abdul\documents\visual studio 2013\Projects\Bootstrap\OSK.Business\bin\Debug\OSK.Business.dll
+C:\Users\Abdul\documents\visual studio 2013\Projects\Bootstrap\OSK.Business\bin\Debug\OSK.Business.pdb
+C:\Users\Abdul\documents\visual studio 2013\Projects\Bootstrap\OSK.Business\obj\Debug\OSK.Business.csprojResolveAssemblyReference.cache
+C:\Users\Abdul\documents\visual studio 2013\Projects\Bootstrap\OSK.Business\obj\Debug\OSK.Business.dll
+C:\Users\Abdul\documents\visual studio 2013\Projects\Bootstrap\OSK.Business\obj\Debug\OSK.Business.pdb

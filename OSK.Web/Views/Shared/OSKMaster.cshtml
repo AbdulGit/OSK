@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Shoping Kart</title>
+
+    @Scripts.Render("~/bundles/Bootstrap")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryUI")
+    @Scripts.Render("~/bundles/EShopper")
+
+    @Styles.Render("~/Content/Bootstrap")
+    @Styles.Render("~/Content/FontAwesome")
+    @Styles.Render("~/Content/JQueryUI")
+    @Styles.Render("~/Content/OSK")
+
+</head>
+<body>
+    <div>
+        @Html.Partial("OSKHeader")
+    </div>
+    
+    <div>
+        @RenderBody() 
+    </div>
+    <div>
+        @Html.Partial("OSKFooter")
+    </div>
+</body>
+</html>

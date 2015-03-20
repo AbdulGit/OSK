@@ -1,0 +1,4 @@
+C:\Users\Abdul\documents\visual studio 2013\Projects\Bootstrap\OSK.Services\bin\Debug\OSK.Services.dll
+C:\Users\Abdul\documents\visual studio 2013\Projects\Bootstrap\OSK.Services\bin\Debug\OSK.Services.pdb
+C:\Users\Abdul\documents\visual studio 2013\Projects\Bootstrap\OSK.Services\obj\Debug\OSK.Services.dll
+C:\Users\Abdul\documents\visual studio 2013\Projects\Bootstrap\OSK.Services\obj\Debug\OSK.Services.pdb
